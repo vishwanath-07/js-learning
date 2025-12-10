@@ -1,2 +1,2 @@
 # js-learning
-starting js journrey
+starting js journey
